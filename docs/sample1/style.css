@@ -1,0 +1,22 @@
+#start {
+  display: block;
+  margin-bottom: 50px;
+}
+
+.btn {
+  width: 150px;
+  height: 50px;
+  border: 0;
+  background-color: #77f;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  outline: none;
+}
+.menu {
+  opacity: 0.4;
+}
+.active {
+  opacity: 1;
+  cursor: pointer;
+}
